@@ -1,0 +1,9 @@
+[
+  { 
+    "requestFrom": "07/14/2022",
+     "requestTO": "07/16/2022",
+     "leaveType":"Medical",
+     "reasonforLeave":"Test"
+     }
+    
+]

@@ -1,0 +1,28 @@
+Tools And Technologies used
+
+Eclipse/STS - tool
+
+Java SE-1.7 - programming language --java version "17.0.1" - 18.0.2
+Maven - build automation tool
+
+Selenium - framework
+
+TestNG - testing framework
+
+Log4j - logger
+
+ExtentReport - report framework
+
+Excel/JSON - to get the data(reading data)
+
+XML - Extensible Markup Language
+
+The Extensible Markup Language (XML) is a simple text-based format for representing structured information:
+ documents, data, configuration, books, transactions, invoices, and much more.
+
+
+Fundamental unit of work in Maven 
+
+A Project Object Model or POM is the fundamental unit of work in Maven. 
+It is an XML file that contains information about the project and configuration details used by Maven to build the project.
+It contains default values for most projects pom -  fundamental unit of work in Maven

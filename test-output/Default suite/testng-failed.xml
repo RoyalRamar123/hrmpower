@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="HRMPowerTestcase.TCAddHoliday">
+        <methods>
+          <include name="navigateToSearchUser"/>
+          <include name="AddHolidayObject" invocation-numbers="0"/>
+          <include name="AddHolidayObject"/>
+          <include name="AddHolidayObjects" invocation-numbers="0"/>
+          <include name="quitDriver1"/>
+          <include name="quitDriver"/>
+          <include name="AddHolidayObjectss"/>
+        </methods>
+      </class> <!-- HRMPowerTestcase.TCAddHoliday -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
